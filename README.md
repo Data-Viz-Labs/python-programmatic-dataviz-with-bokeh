@@ -13,6 +13,9 @@ Click on the link below to open the notebook directly in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-bokeh/blob/main/Chapter_3_3_Python_and_Bokeh.ipynb) Chapter 3.3 - Python and Bokeh  
 *Introduction to interactive data visualization with Bokeh*
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-bokeh/blob/main/Chapter_3_3_2_Python_and_Bokeh_Workshop_(Super_Store).ipynb) Chapter 3.3.2 - Python and Bokeh Workshop (Super Store)  
+*Interactive data visualization exercises using the (Tableau) Super Store dataset with Bokeh*
+
 ## Getting Started
 
 1. Click on the "Open in Colab" badge above to open the notebook in Google Colab
