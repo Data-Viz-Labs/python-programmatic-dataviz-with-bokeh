@@ -16,6 +16,15 @@ Click on the link below to open the notebook directly in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-bokeh/blob/main/Chapter_3_3_2_Python_and_Bokeh_Workshop_(Super_Store).ipynb) Chapter 3.3.2 - Python and Bokeh Workshop (Super Store)  
 *Interactive data visualization exercises using the (Tableau) Super Store dataset with Bokeh*
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-bokeh/blob/main/Chapter_3_3_3_Python_and_Bokeh_Workshop_(Use_cases_Dashboard).ipynb) Chapter 3.3.3 - Python and Bokeh Workshop (Use Cases - Dashboard)  
+*Creating interactive dashboards with Bokeh*
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-bokeh/blob/main/Chapter_3_3_3_Python_and_Bokeh_Workshop_(Use_cases_App).ipynb) Chapter 3.3.3 - Python and Bokeh Workshop (Use Cases - App)  
+*Building interactive applications with Bokeh*
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Viz-Labs/python-programmatic-dataviz-with-bokeh/blob/main/Chapter_3_3_3_Python_and_Bokeh_Workshop_(Use_cases_Streaming).ipynb) Chapter 3.3.3 - Python and Bokeh Workshop (Use Cases - Streaming)  
+*Implementing real-time data visualization with Bokeh*
+
 ## Getting Started
 
 1. Click on the "Open in Colab" badge above to open the notebook in Google Colab
