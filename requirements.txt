@@ -1,5 +1,5 @@
 # Dependencias de los notebooks (referencia para Dependabot y para ejecutarlos fuera de Colab).
-bokeh==3.10.0
+bokeh==3.10.1
 bokeh_sampledata==2025.0
 networkx==3.7
 numpy==2.5.4
